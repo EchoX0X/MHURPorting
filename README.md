@@ -1,3 +1,3 @@
 # MHURPorting
 
-A Windows asset porting tool for My Hero Ultra Rumble.
+A porting tool for My Hero Ultra Rumble.
